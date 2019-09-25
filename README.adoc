@@ -1,0 +1,5 @@
+= bmst/python-rst-validator
+
+A basic container to allow validations of restructured texts files, before
+attempting to push to pypi.
+
